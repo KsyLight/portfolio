@@ -18,7 +18,7 @@
         <li>...</li>
       </ul>
     </td>
-    <td>...</td>
+    <td>Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, Phik</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KsyLight/portfolio/tree/main/startup_research">Исследование стартапов</td>
