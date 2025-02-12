@@ -21,7 +21,7 @@
     <td>SQL (PostgreSQL), DBeaver</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/Python/Yandex_Practicum/startup_research">Исследование стартапов</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/startup_research">Исследование стартапов</td>
     <td>
       <ul>
         <li>...</li>
@@ -32,7 +32,7 @@
     <td>Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Matplotlib_Venn, Seaborn, Missingno, Pandas_Datareader, IPython, Datetime</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/Python/Yandex_Practicum/data_processing_secrets_of_the_darkwood">Обработка данных для команды игры "Секреты Темнолесья</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/data_processing_secrets_of_the_darkwood">Обработка данных для команды игры "Секреты Темнолесья</td>
     <td>
        <ul>
         <li>...</li>
@@ -57,7 +57,7 @@
     <td colspan="3" align="center"><strong>СПбГЭУ</strong></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/Python/University/unecon/real_estate_research">Исследование недвижимости по данным Яндекс Недвижимости</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/real_estate_research">Исследование недвижимости по данным Яндекс Недвижимости</td>
     <td>
        <ul>
         <li>...</li>
@@ -68,7 +68,7 @@
     <td>...</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/Python/University/unecon/analysis_of_airline_ticket_sales">Анализ продаж авиабилетов</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/analysis_of_airline_ticket_sales">Анализ продаж авиабилетов</td>
     <td>
        <ul>
         <li>...</li>
