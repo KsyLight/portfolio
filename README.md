@@ -70,9 +70,9 @@
     <td><a href="https://github.com/KsyLight/portfolio/tree/main/real_estate_research">Исследование недвижимости по данным Яндекс Недвижимости</td>
     <td>
        <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
+        <li>Проведена предобработка данных и предварительный анализ (для заполнения пропусков построена предсказательная модель на основе линейной регрессии)</li>
+        <li>Проведено исследование рынка недвижимости по данным с Яндекс Недвижимости, уже подготовленным ранее</li>
+        <li>Построены предсказательные модели цены крвартиры на основе линейной регрессии</li>
       </ul>
     </td>
     <td>Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, XGBoost, Scipy, Sklearn, JobLib, Datetime, wbdata, pandas.api.types</td>
