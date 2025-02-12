@@ -143,32 +143,4 @@
     </td>
     <td>Некоторые инструменты</td>
   </tr>
-  <tr>
-    <td colspan="3" align="center"><strong>Кейс чемпионаты</strong></td>
-  </tr>
-  <tr>
-    <td>Какой-то проект</td>
-    <td>
-       <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
-    </td>
-    <td>Некоторые инструменты</td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><strong>Другое</strong></td>
-  </tr>
-  <tr>
-    <td>Какой-то проект</td>
-    <td>
-       <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
-    </td>
-    <td>Некоторые инструменты</td>
-  </tr>
 </table>
