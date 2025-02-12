@@ -75,7 +75,7 @@
         <li>...</li>
       </ul>
     </td>
-    <td>...</td>
+    <td>Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, XGBoost, Scipy, Sklearn, JobLib, Datetime, wbdata, pandas.api.types</td>
   </tr>
     <tr>
     <td><a href="https://github.com/KsyLight/portfolio/tree/main/analysis_of_airline_ticket_sales">Анализ продаж авиабилетов</td>
@@ -86,6 +86,6 @@
         <li>...</li>
       </ul>
     </td>
-    <td>Некоторые инструменты</td>
+    <td>Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Numpy, Scipy</td>
   </tr>
 </table>
