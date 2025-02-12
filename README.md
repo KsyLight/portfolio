@@ -67,9 +67,7 @@
   <tr>
     <td><a href="https://datalens.yandex/3ig5p12ll8usq">TED-Talks</td>
     <td>
-       <ul>
-        <li>Дашборд</li>
-      </ul>
+       <ul>Дашборд</ul>
     </td>
     <td>Yandex DataLens</td>
   </tr>
