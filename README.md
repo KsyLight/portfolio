@@ -73,11 +73,7 @@
   </tr>
   <tr>
     <td><a href="https://datalens.yandex/gw2pc410d63i3">Аналитика недвижимости</td>
-    <td>
-       <ul>
-        <li>Дашборд</li>
-      </ul>
-    </td>
+    <td>Дашборд</td>
     <td>Yandex DataLens</td>
   </tr>
   <tr>
