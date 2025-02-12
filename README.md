@@ -43,7 +43,7 @@
     <td>Python, Jupyter Notebook, Pandas</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/catering_research_project">Анализ данных для агентства недвижимости</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/data_analysis_for_a_real%20estate_agency">Анализ данных для агентства недвижимости</td>
     <td>
        <ul>
         <li>...</li>
