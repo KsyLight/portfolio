@@ -54,42 +54,6 @@
     <td>Yandex DataLens</td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><strong>Школа анализа данных МТС</strong></td>
-  </tr>
-  <tr>
-    <td>SQL-запросы</td>
-    <td>
-       <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
-    </td>
-    <td>Некоторые инструменты</td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td>
-       <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
-    </td>
-    <td>Некоторые инструменты</td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td>
-       <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
-    </td>
-    <td>Некоторые инструменты</td>
-  </tr>
-  <tr>
     <td colspan="3" align="center"><strong>СПбГЭУ</strong></td>
   </tr>
   <tr>
