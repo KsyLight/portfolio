@@ -10,7 +10,7 @@
     <td colspan="3" align="center"><strong>Яндекс Практикум</strong></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/moscow_catering_research_project">Исследовательский проект в сфере общественного питания Москвы</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/catering_research_project">Исследовательский проект в сфере общественного питания Москвы</td>
     <td>
        <ul>
         <li>...</li>
