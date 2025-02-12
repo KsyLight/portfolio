@@ -10,7 +10,7 @@
     <td colspan="3" align="center"><strong>Яндекс Практикум</strong></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KsyLight/portfolio/tree/main/moscow_catering_research_project">Исследовательский проект в сфере общественного питания Москвы</td>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/catering_research_project">Исследовательский проект в сфере общественного питания Москвы</td>
     <td>
        <ul>
         <li>...</li>
@@ -18,7 +18,7 @@
         <li>...</li>
       </ul>
     </td>
-    <td>SQL (PostgreSQL), DBeaver</td>
+    <td>...</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KsyLight/portfolio/tree/main/startup_research">Исследование стартапов</td>
@@ -42,7 +42,17 @@
     </td>
     <td>Python, Jupyter Notebook, Pandas</td>
   </tr>
-
+  <tr>
+    <td><a href="https://github.com/KsyLight/portfolio/tree/main/catering_research_project">Анализ данных для агентства недвижимости</td>
+    <td>
+       <ul>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+      </ul>
+    </td>
+    <td>SQL (PostgreSQL), DBeaver</td>
+  </tr>
   <tr>
     <td><a href="https://datalens.yandex/3ig5p12ll8usq">TED-Talks</td>
     <td>Дашборд</td>
