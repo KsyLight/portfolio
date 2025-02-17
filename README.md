@@ -64,7 +64,7 @@
     <td>Yandex DataLens</td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><strong>СПбГЭУ</strong></td>
+    <td colspan="3" align="center"><strong>Pet-проекты</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/KsyLight/portfolio/tree/main/real_estate_research">Исследование недвижимости по данным Яндекс Недвижимости</td>
