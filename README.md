@@ -88,5 +88,28 @@
       </ul>
     </td>
     <td>Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Numpy, Scipy</td>
-  </tr>
+<tr>
+  <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml1">Классификация мошеннических транзакций</a></td>
+  <td>
+    <ul>
+      <li>Проведена комплексная предобработка данных: извлечены признаки времени, логарифмирована сумма транзакции, закодированы категориальные признаки;</li>
+      <li>Обучены и сравнивались различные модели, все сделаны на CatBoost (CatBoostClassifier), произведён подбор гиперпараметров с помозью Optuna;</li>
+      <li>Оценка производилась по метрике F1-score, а также логарифмической функции потерь (logloss);</li>
+      <li>Финальная проверка модели осуществлялась на тестовой выборке через сабмит на Kaggle. Заняла 18 место на <a href="https://www.kaggle.com/competitions/teta-ml-1-2025/leaderboard">соревновании.</li>
+    </ul>
+  </td>
+  <td>Python, Jupyter Notebook, Pandas, CatBoost, Scikit-learn, SHAP, Matplotlib, Seaborn, Optuna, Phik</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml2">Регрессия стоимости аренды жилья (Airbnb)</a></td>
+  <td>
+    <ul>
+      <li>Проведена всесторонняя предобработка данных: логарифмирована целевая переменная, обработаны пропуски, извлечены признаки из даты, закодированы категориальные переменные;</li>
+      <li>Обучены и протестированы несколько моделей, все на CatBoost (CatBoostRegressor), проведён подбор гиперпараметров с использованием Optuna;</li>
+      <li>Модель оценивалась по метрикам RMSE, MSE и R²; выполнена визуализация остатков, ошибок и предсказаний, а также анализ важности признаков через SHAP;</li>
+      <li>Финальная модель отправлена на Kaggle, где заняла 1 место в <a href="https://www.kaggle.com/competitions/teta-ml-2-2025/leaderboard">соревновании.</li>
+    </ul>
+  </td>
+  <td>Python, Jupyter Notebook, Pandas, CatBoost, Scikit-learn, SHAP, Matplotlib, Seaborn, Optuna, Phik, Statsmodels</td>
+</tr>
 </table>
