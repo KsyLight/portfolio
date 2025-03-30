@@ -101,7 +101,7 @@
   <td>Python, Jupyter Notebook, Pandas, CatBoost, Scikit-learn, SHAP, Matplotlib, Seaborn, Optuna, Phik</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml2">Регрессия стоимости аренды жилья (Airbnb)</a></td>
+  <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml2">Регрессия стоимости аренды жилья (вероятно, данные с Airbnb)</a></td>
   <td>
     <ul>
       <li>Проведена всесторонняя предобработка данных: логарифмирована целевая переменная, обработаны пропуски, извлечены признаки из даты, закодированы категориальные переменные;</li>
