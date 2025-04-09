@@ -112,4 +112,18 @@
   </td>
   <td>Python, Jupyter Notebook, Pandas, CatBoost, Scikit-learn, SHAP, Matplotlib, Seaborn, Optuna, Phik, Statsmodels</td>
 </tr>
+        <tr>
+  <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">Стекинг регрессионных моделей с оценкой неопределённости</a></td>
+  <td>
+    <ul>
+      <li>Проведён полный EDA-анализ: визуализированы распределения признаков, выбросы, пропуски, проведен корреляционный анализ; выявлены дублирующие/избыточные признаки;</li>
+      <li>Реализована функция предобработки: извлечение даты, логарифмирование числовых признаков, кодирование категориальных переменных, масштабирование и заполнение пропусков через Pipelines и ColumnTransformer;</li>
+      <li>Обучены 5 базовых моделей: CatBoost, LightGBM, XGBoost, RandomForest, Ridge, с кросс-валидацией по KFold (K=5), с применением стекинга через мета-модель CatBoost;</li>
+      <li>Выполнена оценка неопределённостей: рассчитаны алеаторная, эпистемическая и суммарная (total) неопределённости, построены графики зависимости ошибки от доверия модели;</li>
+      <li>Для лучшей модели проведён финальный анализ ошибок, предсказаний и устойчивости, сравнение с простой CatBoost-моделью, обученной через Optuna (которая показала лучшие метрики);</li>
+      <li>Финальные предсказания проверены с помощью таргета для теста в лице датасета solution.</li>
+    </ul>
+  </td>
+  <td>Python, Jupyter Notebook, Pandas, Numpy, SciPy, CatBoost, LightGBM, XGBoost, Scikit-Learn, Missingno, Matplotlib, Seaborn, Optuna, Phik</td>
+</tr>
 </table>
