@@ -23,7 +23,7 @@
       <li>Приложение развернуто на арендованном сервере с HTTPS и автозапуском.</li>
     </ul>
   </td>
-  <td>Можно посмотреть в <a href="https://github.com/KsyLight/cv-analyzer-gazprom-neft">репозитории проекта</a>.</td>
+  <td>Можно посмотреть в <a href="https://github.com/KsyLight/cv-analyzer-gazprom-neft">репозитории проекта</a></td>
 </tr>
   <tr>
     <td colspan="3" align="center"><strong>Pet-проекты</strong></td>
