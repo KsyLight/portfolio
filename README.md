@@ -51,6 +51,7 @@
     </td>
     <td>Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Numpy, Scipy</td>
 <tr>
+<tr>
   <td><a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml1">Классификация мошеннических транзакций</a></td>
   <td>
     <ul>
