@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td>
-      Python, Streamlit, Docker, HTTPS
+      ...
     </td>
   </tr>
 
