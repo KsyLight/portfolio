@@ -154,7 +154,7 @@
     </td>
   </tr>
 
-    <!-- 7. RAG-pipeline -->
+  <!-- 7. RAG-pipeline -->
   <tr>
     <td>
       <a href="https://github.com/KsyLight/mts-data-analysis-school/blob/main/nn3/Neural%20Networks%203.ipynb">
