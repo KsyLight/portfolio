@@ -139,7 +139,7 @@
   <!-- 6. CV классификация картинок -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/blob/main/nn2/Neural%20Networks%202.ipynb">
         CV классификация картинок: самописный вариант на PyTorch + дообучение готовых моделей
       </a>
     </td>
@@ -160,7 +160,7 @@
     <!-- 7. RAG-pipeline -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/blob/main/nn3/Neural%20Networks%203.ipynb">
         RAG-pipeline по книге "Преступление и наказание" Фёдора Достроевского в формате PDF 
       </a>
     </td>
