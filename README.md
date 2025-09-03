@@ -97,125 +97,82 @@
     </td>
   </tr>
 
-  <!-- 4. Исследование недвижимости по данным Яндекс Недвижимости -->
+  <!-- 4. Стекинг регрессионных моделей с оценкой неопределённости -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/real_estate_research">
-        Исследование недвижимости по данным Яндекс Недвижимости
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">
+        Стекинг регрессионных моделей с оценкой неопределённости
       </a>
     </td>
     <td>
       <ul>
-        <li>Предобработка и заполнение пропусков моделью на основе линейной регрессии;</li>
-        <li>Статистические тесты (бутстреп) по двум гипотезам;</li>
-        <li>Построение линейной модели предсказания цены квартиры.</li>
+        <li>EDA: распределения, выбросы, корреляции, дубли;</li>
+        <li>Preprocessing pipeline с ColumnTransformer: извлечение дат, логарифмирование, кодирование, масштабирование;</li>
+        <li>Базовые модели (CatBoost, LightGBM, XGBoost, RandomForest, Ridge) + стекинг через мета-модель;</li>
+        <li>Расчёт алеаторной, эпистемической и total-неопределённостей; графики ошибки vs доверие;</li>
+        <li>Сравнение с одиночной CatBoost-моделью, финальный анализ ошибок и устойчивости.</li>
       </ul>
     </td>
     <td>
-      Python, Pandas, Matplotlib, Seaborn, Scipy, Sklearn, XGBoost
+      Python, Scikit-learn, CatBoost, LightGBM, XGBoost, Optuna, SHAP
     </td>
   </tr>
 
-  <!-- 5. Анализ продаж авиабилетов -->
+  <!-- 5. NLP: прогнозирование заработной платы в логарифмированной шкале -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/analysis_of_airline_ticket_sales">
-        Анализ продаж авиабилетов
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/blob/main/nn1/neural-networks-1.ipynb">
+        Прогнозирования з/п в лог. шкале: дообучение NLP моделей + самописный вариант
       </a>
     </td>
     <td>
       <ul>
-        <li>Предобработка и первичный анализ;</li>
-        <li>Отчёт по выручке, сезонность, топ-10 направлений;</li>
-        <li>Статистический тест на разницу выручек между группами клиентов.</li>
+        <li>....</li>
+        <li>....</li>
       </ul>
     </td>
     <td>
-      Python, Pandas, Matplotlib, Seaborn, Scipy
+      ....
     </td>
   </tr>
 
-  <!-- Яндекс Практикум -->
-  <tr>
-    <td colspan="3" align="center"><strong>Яндекс Практикум</strong></td>
-  </tr>
+  <!-- 6. CV классификация картинок -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/catering_research_project">
-        Исследовательский проект в сфере общественного питания Москвы
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">
+        CV классификация картинок: самописный вариант на PyTorch + дообучение готовых моделей
       </a>
     </td>
     <td>
       <ul>
-        <li>Предобработка и анализ данных;</li>
-        <li>Исследование ключевых вопросов рынка;</li>
-        <li>Выводы и рекомендации.</li>
+        <li>EDA: распределения, выбросы, корреляции, дубли;</li>
+        <li>Preprocessing pipeline с ColumnTransformer: извлечение дат, логарифмирование, кодирование, масштабирование;</li>
+        <li>Базовые модели (CatBoost, LightGBM, XGBoost, RandomForest, Ridge) + стекинг через мета-модель;</li>
+        <li>Расчёт алеаторной, эпистемической и total-неопределённостей; графики ошибки vs доверие;</li>
+        <li>Сравнение с одиночной CatBoost-моделью, финальный анализ ошибок и устойчивости.</li>
       </ul>
     </td>
     <td>
-      Python, Pandas, Matplotlib, Seaborn
+      Python, Scikit-learn, CatBoost, LightGBM, XGBoost, Optuna, SHAP
     </td>
   </tr>
+
+    <!-- 7. RAG-pipeline -->
   <tr>
     <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/startup_research">
-        Исследование стартапов
+      <a href="https://github.com/KsyLight/mts-data-analysis-school/tree/main/ml3">
+        RAG-pipeline по книге "Преступление и наказание" Фёдора Достроевского в формате PDF 
       </a>
     </td>
     <td>
       <ul>
-        <li>Очистка данных, категоризация, объединение наборов;</li>
-        <li>Анализ выбросов, раундов финансирования и бесплатных покупок;</li>
+        <li>....</li>
+        <li>....</li>
       </ul>
     </td>
     <td>
-      Python, Pandas, Matplotlib, Seaborn
+      ...
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/data_processing_secrets_of_the_darkwood">
-        Обработка данных для игры "Секреты Темнолесья"
-      </a>
-    </td>
-    <td>
-      <ul>
-        <li>Исправление пропусков и дубликатов;</li>
-        <li>Фильтрация и категоризация по оценкам.</li>
-      </ul>
-    </td>
-    <td>
-      Python, Pandas
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/KsyLight/portfolio/tree/main/data_analysis_for_a_real_estate_agency">
-        Анализ данных для агентства недвижимости
-      </a>
-    </td>
-    <td>
-      <ul>
-        <li>3 ad hoc запроса на PostgreSQL с оконными функциями и CTE;</li>
-        <li>Исследование рынка СПб и ЛО, исследовательский комментарий.</li>
-      </ul>
-    </td>
-    <td>
-      SQL (PostgreSQL), DBeaver
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://datalens.yandex/3ig5p12ll8usq">TED-Talks</a>
-    </td>
-    <td>Дашборд</td>
-    <td>Yandex DataLens</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://datalens.yandex/gw2pc410d63i3">Аналитика недвижимости</a>
-    </td>
-    <td>Дашборд</td>
-    <td>Yandex DataLens</td>
-  </tr>
+
 </table>
