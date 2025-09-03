@@ -150,7 +150,7 @@
       </ul>
     </td>
     <td>
-      Python, Scikit-learn, CatBoost, LightGBM, XGBoost, Optuna, SHAP
+      ....
     </td>
   </tr>
 
